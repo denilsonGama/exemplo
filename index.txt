@@ -1,3 +1,4 @@
 16/07/2018: Minha primeira alteraçao no arquivo
 16/07/2018: Minha Segunda alteraçao no arquivo
 17/07/2018: Criamos uma Branche no arquivo branches.txt para exemplo entre versões;
+17/07/2018: Criamos 4 arquivos (funcoes.txt) na branche v5.01 e com o merge trouxemos para a versão master
