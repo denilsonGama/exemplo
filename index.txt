@@ -3,5 +3,6 @@
 17/07/2018: Criamos uma Branche no arquivo branches.txt para exemplo entre versões;
 17/07/2018: Criamos 4 arquivos (funcoes.txt) na branche v5.01 e com o merge trouxemos para a versão master
 
-17/07/2018: Voce esta na versão master:
-17/07/2018: Criamos alterções diferentes neste arquivo para teste de conflito entre versões
+17/07/2018: Criamos alterções diferentes neste arquivo para teste de conflito entre versões. Este texto estava na versão master.
+
+17/07/2018: Alteração para teste de conflito entre versões no mesmo arquivo.Este texto veio da versão v5.1. 
